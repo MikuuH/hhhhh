@@ -12,3 +12,4 @@
 /home/miku/Музыка/hhhhh/NewApp/obj/Debug/net8.0/NewApp.pdb
 /home/miku/Музыка/hhhhh/NewApp/obj/Debug/net8.0/NewApp.genruntimeconfig.cache
 /home/miku/Музыка/hhhhh/NewApp/obj/Debug/net8.0/ref/NewApp.dll
+/home/miku/Музыка/hhhhh/NewApp/obj/Debug/net8.0/NewApp.sourcelink.json
