@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TTdRLA+XUFA=",
+  "success": true,
+  "projectFilePath": "/home/miku/Музыка/hhhhh/NewApp/NewApp.csproj",
+  "expectedPackageFiles": [
+    "/home/miku/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.8/microsoft.aspnetcore.app.ref.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
